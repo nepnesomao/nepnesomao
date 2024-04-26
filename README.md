@@ -1,17 +1,20 @@
-### Hi there 👋
+<h2> Hello, I'm Omer Kulahli <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<!--
-**nepnesomao/nepnesomao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![snake gif](https://github.com/nepnesomao/nepnesomao/blob/output/github-contribution-grid-snake.gif)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-kulahli)[![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omerkulahli88)
+
+
+I'm a software developer who has been working in software for 12 years. I've done different jobs in E-commerce, FinTech,Blockchain and Online Travel. While I'm good with .Net, I'm also into other tech like Node.js and Python.
+I like learning new things and working with a team. I can solve problems and communicate well with people.
+
+
+## 👨‍💻 Professional Skills
+
+-  **Language:**  C#, Python, Javascript
+-  **Queue:**  RabbitMQ, Kafka
+-  **DevOps:** Amazon Web Services (AWS), Docker, Jenkins, Redis
+-  **Logging:** NewRelic
+-  **FrontEnd:** React, NextJS
+-  **Database:** Relational Database (MsSQL, MySQL, PostgreSQL) / Non-Relational Database (MongoDB)
